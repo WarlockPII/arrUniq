@@ -55,4 +55,4 @@ if(FirstMethod.join('') === SecondMethod.join('')){
 };
 
 
-alarm("Open console for more information!");
+alert("Open console for more information!");
